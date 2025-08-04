@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-swarup_address = "0xd7ad0d2f78cd507fe98158d01d97fa0eba8e14f80d550d19d10e898140b8b285"
+swarup_address ="0xd7ad0d2f78cd507fe98158d01d97fa0eba8e14f80d550d19d10e898140b8b285"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-framework.git", rev = "mainnet", subdir = "aptos-framework" }
